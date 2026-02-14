@@ -1,6 +1,4 @@
-## Hi there 👋
-
-テストです
+## welcome!
 <!--
 **yk2906/yk2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

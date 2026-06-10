@@ -17,6 +17,6 @@
 <details>
 <summary>Steam プレイ時間</summary>
 
-![Steam Playtime](./assets/steam-playtime.png)
+![Steam Playtime](./assets/steam-playtime.svg)
 
 </details>

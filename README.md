@@ -13,3 +13,10 @@
 
 ## 趣味
 - 
+
+<details>
+<summary>Steam プレイ時間</summary>
+
+![Steam Playtime](./assets/steam-playtime.png)
+
+</details>

@@ -1,15 +1,15 @@
-## welcome!
-<!--
-**yk2906/yk2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# yk2906
 
-Here are some ideas to get you started:
+## 基本プロフィール
+- 名前:
+- 居住地:
+- 連絡先:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 経歴
+- 
+
+## スキル
+- 
+
+## 趣味
+- 

@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:ff2079,100:00fff9&height=180&section=header&text=yk2906%20no%20Boukennosho&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E3%83%8D%E3%82%AA%E3%83%B3%E8%BC%9D%E3%81%8F%E9%9B%BB%E8%84%B3%E3%81%AE%E3%81%BC%E3%81%86%E3%81%8C%E3%81%84%E3%81%AE%E3%81%97%E3%82%8B%E3%81%97&descAlignY=58&descSize=16" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a4e,100:2c2c7c&height=180&section=header&text=yk2906%20no%20Boukennosho&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E3%81%B5%E3%81%97%E3%81%8E%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%81%BC%E3%81%86%E3%81%8C%E3%81%84%E3%81%AE%E3%81%97%E3%82%8B%E3%81%97&descAlignY=58&descSize=16" width="100%" alt="header" />
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=20&duration=3000&pause=1000&color=00FFF9&center=true&vCenter=true&width=650&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%81yk2906+%E3%81%AE%E3%81%BC%E3%81%86%E3%81%91%E3%82%93%E3%81%AE%E3%81%97%E3%82%87%E3%81%B8...;%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%BB%E3%83%8D%E3%82%AA%E3%83%BB%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%81%AB%E3%81%A6+Infra%2FDevOps+%E3%82%92%E3%81%A4%E3%81%A5%E3%81%8B%E3%81%95%E3%81%A9%E3%82%8B;AWS%E3%80%81K8s%E3%80%81Terraform%E3%81%AA%E3%81%A9%E3%81%AE+%E9%AD%94%E6%B3%95%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0+%E3%82%92%E3%81%A4%E3%81%8B%E3%81%88%E3%82%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=20&duration=3000&pause=1000&color=FFD54A&center=true&vCenter=true&width=600&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%81yk2906+%E3%81%AE%E3%81%BC%E3%81%86%E3%81%91%E3%82%93%E3%81%AE%E3%81%97%E3%82%87%E3%81%B8...;%E3%81%93%E3%81%93%E3%81%AB%E3%81%AF+Infra%2FDevOps+%E3%81%AE%E3%82%8F%E3%81%96%E3%81%8C%E3%81%A4%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B;AWS%E3%80%81K8s%E3%80%81Terraform%E3%81%AA%E3%81%A9%E3%81%AE%E3%81%98%E3%82%85%E3%82%82%E3%82%93%E3%82%92%E3%81%A4%E3%81%8B%E3%81%88%E3%82%8B" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,7 +14,7 @@
 <table width="100%">
 <tr><td>
 
-### 🛡️💾 ステータス
+### 🛡️ ステータス
 
 |  |  |
 |---|---|
@@ -45,7 +45,7 @@
 <br>
 
 <!-- ================= ぼうけんのきろく ================= -->
-### 🗺️🌆 ぼうけんのきろく
+### 🗺️ ぼうけんのきろく
 
 - **2020年7月** — とにかいの まちで しゅうしょく。SESきぎょうにて しゃかいじんとしての ぼうけんを かいし。
 - **2022年9月** — 1つめのきぎょうを たいしょく。
@@ -55,30 +55,30 @@
 <br>
 
 <!-- ================= もちもの ================= -->
-### 🎒⚡ もちもの
+### 🎒 もちもの
 
 <div align="center">
 
 **☁️ AWS**
 
-![EC2](https://img.shields.io/badge/EC2-0d0221?style=flat-square&logo=amazonec2&logoColor=00FFF9)
-![S3](https://img.shields.io/badge/S3-0d0221?style=flat-square&logo=amazons3&logoColor=00FFF9)
-![Transfer Family](https://img.shields.io/badge/Transfer_Family-0d0221?style=flat-square&logoColor=00FFF9)
-![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-0d0221?style=flat-square&logoColor=00FFF9)
+![EC2](https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=amazonec2&logoColor=FFD54A)
+![S3](https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=amazons3&logoColor=FFD54A)
+![Transfer Family](https://img.shields.io/badge/Transfer_Family-232F3E?style=flat-square&logoColor=FFD54A)
+![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-232F3E?style=flat-square&logoColor=FFD54A)
 
 **🌩️ GCP**
 
-![GCE](https://img.shields.io/badge/GCE-0d0221?style=flat-square&logo=googlecloud&logoColor=FF2079)
-![GCS](https://img.shields.io/badge/GCS-0d0221?style=flat-square&logo=googlecloud&logoColor=FF2079)
-![BigQuery](https://img.shields.io/badge/BigQuery-0d0221?style=flat-square&logo=googlebigquery&logoColor=FF2079)
+![GCE](https://img.shields.io/badge/GCE-4285F4?style=flat-square&logo=googlecloud&logoColor=FFD54A)
+![GCS](https://img.shields.io/badge/GCS-4285F4?style=flat-square&logo=googlecloud&logoColor=FFD54A)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=FFD54A)
 
 **🏗️ IaC / その他**
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0221?style=for-the-badge&logo=kubernetes&logoColor=39FF14)
-![Terraform](https://img.shields.io/badge/Terraform-0d0221?style=for-the-badge&logo=terraform&logoColor=39FF14)
-![Ansible](https://img.shields.io/badge/Ansible-0d0221?style=for-the-badge&logo=ansible&logoColor=39FF14)
-![SQL](https://img.shields.io/badge/SQL-0d0221?style=for-the-badge&logo=postgresql&logoColor=39FF14)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d0221?style=for-the-badge&logo=streamlit&logoColor=39FF14)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-232F3E?style=for-the-badge&logo=kubernetes&logoColor=FFD54A)
+![Terraform](https://img.shields.io/badge/Terraform-232F3E?style=for-the-badge&logo=terraform&logoColor=FFD54A)
+![Ansible](https://img.shields.io/badge/Ansible-232F3E?style=for-the-badge&logo=ansible&logoColor=FFD54A)
+![SQL](https://img.shields.io/badge/SQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=FFD54A)
+![Streamlit](https://img.shields.io/badge/Streamlit-232F3E?style=for-the-badge&logo=streamlit&logoColor=FFD54A)
 
 </div>
 
@@ -86,7 +86,7 @@
 
 <!-- ================= しょうごう ================= -->
 <details>
-<summary>🏅🕶️ しょうごう(取得済み資格)をみる</summary>
+<summary>🏅 しょうごう(取得済み資格)をみる</summary>
 <br>
 
 | しゅとくねんげつ | しょうごう |
@@ -111,7 +111,7 @@
 <br>
 
 <!-- ================= クエストログ ================= -->
-### 📜🌆 クエストログ
+### 📜 クエストログ
 
 - 🗺️ **しんこうちゅうのクエスト**: `[ここに記入。例: 〇〇基盤のTerraform化 など]`
 - ⚔️ **さいきんの さんかクエスト (OSS/個人開発)**: `[ここに記入]`
@@ -138,7 +138,7 @@ TODO: steam-playtime-exporter の SVG生成〜このリポジトリへの自動�
 <br>
 
 <!-- ================= コマンドウィンドウ風リンクメニュー ================= -->
-### ▼💻 コマンド
+### ▼ コマンド
 
 <div align="center">
 
@@ -157,6 +157,6 @@ TODO: steam-playtime-exporter の SVG生成〜このリポジトリへの自動�
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff9,65:ff2079,100:0d0221&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c7c,100:1a1a4e&height=100&section=footer" width="100%" alt="footer" />
 
 </div>

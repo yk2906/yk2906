@@ -101,6 +101,8 @@
 | 2023年1月 | AWS Certified SysOps Administrator - Associate |
 | 2023年9月 | Google Cloud Digital Leader |
 | 2023年10月 | Google Cloud Associate Engineer |
+| 2025年1月 | ITパスポート |
+| 2025年2月 | 情報セキュリティマネジメント |
 | 2025年6月 | Linux技術者認定試験(LPIC) - レベル2 |
 | 2026年6月 | AWS Certified Solutions Architect - Professional |
 

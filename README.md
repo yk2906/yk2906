@@ -20,17 +20,19 @@
 |---|---|
 | **なまえ** | yk2906 |
 | **しょくぎょう** | インフラエンジニア (Infrastructure / DevOps Engineer) |
-| **レベル** | Lv. 4 (けいけん やく 3.5ねん / SES・はけん) |
+| **レベル** | Lv. 6 (けいけん やく 6ねん / 2020年7月〜) |
+| **げんざいのぱーてぃ** | 客先常駐パートナーとして、某ECサイト運営企業の社内ITインフラ構築・運用をたんとう |
 | **こんきょち** | `[ここに記入]` |
 
 **しゅとく ずみの じゅもん・とくぎ**
 
 | じゅもん | しゅくれんど |
 |---|---|
-| ☁️ AWS | ■■■■■□□□□□ |
+| ☁️ AWS | ■■■■■■■■□□ |
+| 🌩️ GCP | ■■■■■■□□□□ |
 | ☸️ Kubernetes | ■■■■■□□□□□ |
-| 🏗️ Terraform | ■■■■■□□□□□ |
-| 🤖 Ansible | ■■■■■□□□□□ |
+| 🏗️ Terraform | ■■■■■■■□□□ |
+| 🤖 Ansible | ■■■■■■□□□□ |
 | 📊 BigQuery | ■■■■■□□□□□ |
 | 🗄️ SQL | ■■■■■□□□□□ |
 | 🎈 Streamlit | ■■■■■□□□□□ |
@@ -42,20 +44,67 @@
 
 <br>
 
+<!-- ================= ぼうけんのきろく ================= -->
+### 🗺️ ぼうけんのきろく
+
+- **2020年7月** — とにかいの まちで しゅうしょく。SESきぎょうにて しゃかいじんとしての ぼうけんを かいし。
+- **2022年9月** — 1つめのきぎょうを たいしょく。
+- **2022年11月** — 2つめのきぎょうへ てんしょく。げんざいも ぞくこう中。
+- **げんざい** — 客先常駐パートナーとして某ECサイト運営企業へ はけん。社内ITインフラシステムの こうちく・うんように たずさわる。AWS/GCPなどのクラウドや、Terraform/AnsibleといったIaCぶんやでの コードしゅうせい・きのうかいしゅうも たんとう。
+
+<br>
+
 <!-- ================= もちもの ================= -->
 ### 🎒 もちもの
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FFD54A)
+**☁️ AWS**
+
+![EC2](https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=amazonec2&logoColor=FFD54A)
+![S3](https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=amazons3&logoColor=FFD54A)
+![Transfer Family](https://img.shields.io/badge/Transfer_Family-232F3E?style=flat-square&logoColor=FFD54A)
+![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-232F3E?style=flat-square&logoColor=FFD54A)
+
+**🌩️ GCP**
+
+![GCE](https://img.shields.io/badge/GCE-4285F4?style=flat-square&logo=googlecloud&logoColor=FFD54A)
+![GCS](https://img.shields.io/badge/GCS-4285F4?style=flat-square&logo=googlecloud&logoColor=FFD54A)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=FFD54A)
+
+**🏗️ IaC / その他**
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-232F3E?style=for-the-badge&logo=kubernetes&logoColor=FFD54A)
 ![Terraform](https://img.shields.io/badge/Terraform-232F3E?style=for-the-badge&logo=terraform&logoColor=FFD54A)
 ![Ansible](https://img.shields.io/badge/Ansible-232F3E?style=for-the-badge&logo=ansible&logoColor=FFD54A)
-![BigQuery](https://img.shields.io/badge/BigQuery-232F3E?style=for-the-badge&logo=googlebigquery&logoColor=FFD54A)
 ![SQL](https://img.shields.io/badge/SQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=FFD54A)
 ![Streamlit](https://img.shields.io/badge/Streamlit-232F3E?style=for-the-badge&logo=streamlit&logoColor=FFD54A)
 
 </div>
+
+<br>
+
+<!-- ================= しょうごう ================= -->
+<details>
+<summary>🏅 しょうごう(取得済み資格)をみる</summary>
+<br>
+
+| しゅとくねんげつ | しょうごう |
+|---|---|
+| 2017年6月 | 日商簿記検定2級 |
+| 2018年2月 | Microsoft Office Specialist Excel 2016 |
+| 2018年12月 | TOEIC IPテスト 615点 |
+| 2021年8月 | シスコ技術者認定 CCNA (Cisco Certified Network Associate) |
+| 2021年10月 | Linux技術者認定試験(LPIC) - レベル1 |
+| 2021年10月 | AWS Certified Cloud Practitioner |
+| 2021年12月 | AWS Certified Solutions Architect – Associate |
+| 2023年1月 | AWS Certified SysOps Administrator - Associate |
+| 2023年9月 | Google Cloud Digital Leader |
+| 2023年10月 | Google Cloud Associate Engineer |
+| 2025年6月 | Linux技術者認定試験(LPIC) - レベル2 |
+| 2026年6月 | AWS Certified Solutions Architect - Professional |
+
+</details>
 
 <br>
 

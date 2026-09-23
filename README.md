@@ -118,9 +118,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yk2906&show_icons=true&theme=dark&bg_color=1a1a4e&title_color=FFD54A&icon_color=FFD54A&text_color=ffffff&border_color=FFD54A&hide_border=false&count_private=true" width="49%" alt="github stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yk2906&theme=dark&background=1a1a4e&stroke=FFD54A&ring=FFD54A&fire=FFD54A&currStreakLabel=FFD54A&border=FFD54A" width="49%" alt="github streak" />
-
 </div>
 
 <br>

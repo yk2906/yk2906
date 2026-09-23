@@ -122,6 +122,10 @@
 
 <br>
 
+<!--
+TODO: steam-playtime-exporter の SVG生成〜このリポジトリへの自動コミット処理が
+まだ未実装のため、いったん非表示。パイプラインができたら復活させる。
+
 <details>
 <summary>🎮 とくぎ「Steamプレイ時間をみる」</summary>
 <br>
@@ -129,6 +133,7 @@
 ![Steam Playtime](./assets/steam-playtime.svg)
 
 </details>
+-->
 
 <br>
 
